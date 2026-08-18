@@ -41,3 +41,18 @@ main p {
     font-family: var(--font-02), sans-serif;
     line-height: 2em;
 }
+.fundo {
+    display: inline-block;
+    background-color: black;
+    padding-top: 50px;
+   color: white;
+}
+#flor {
+    position: relative;
+    height: 98vh;
+    background-image: url("../imagens/background001.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+
+}
