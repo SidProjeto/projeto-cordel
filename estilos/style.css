@@ -71,6 +71,7 @@ main p {
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 30px;
+    box-shadow: inset 3px 3px 10px black;
 }
 #flor {
     background-image: url("../imagens/background001.jpg");
@@ -79,8 +80,7 @@ main p {
     background-image: url("../imagens/background002.jpg");
 }
 footer {
-    padding: 5px 0;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
     background-color: black;
     text-align: center;
